@@ -1,3 +1,4 @@
+# Main scene: Assets\Resources\EZ Assets\Scenes\Tien-Le_IB-Fight-Scene.unity
 # File Name: “EZ-Test_Tien-Le_IB-Fight-Scene”.
 # Designed By: Lê Văn Tiền
 - Link to file apk: https://drive.google.com/file/d/1fg5L8pZEHvImhB7PFi9Pa165S7igzMxi/view?usp=sharing
