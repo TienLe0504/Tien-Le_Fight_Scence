@@ -1,7 +1,7 @@
 # File Name: “EZ-Test_Tien-Le_IB-Fight-Scene”.
 # Designed By: Lê Văn Tiền
-- Link to file apk: https://drive.google.com/drive/folders/1BIOkay3q2wSVlZgDgCg-5TB4FHLpsFMD
-- Link to file mp4: https://drive.google.com/drive/folders/1BIOkay3q2wSVlZgDgCg-5TB4FHLpsFMD
+- Link to file apk: https://drive.google.com/file/d/1fg5L8pZEHvImhB7PFi9Pa165S7igzMxi/view?usp=sharing
+- Link to file mp4: https://drive.google.com/file/d/1Ipj2cWGAV5EC08ty7K606OE9XEhmsNCA/view?usp=sharing
 - Link to Git: https://github.com/TienLe0504/Tien-Le_Fight_Scence
   
 # GIẢI THÍCH THUẬT TOÁN CÂU 2
