@@ -1,12 +1,9 @@
-## Main scene: Assets\Resources\EZ Assets\Scenes\Tien-Le_IB-Fight-Scene.unity
-# File Name: “EZ-Test_Tien-Le_IB-Fight-Scene”.
 # Designed By: Lê Văn Tiền
 - Link to file apk: https://drive.google.com/file/d/1fg5L8pZEHvImhB7PFi9Pa165S7igzMxi/view?usp=sharing
 - Link to file mp4: https://drive.google.com/file/d/1Ipj2cWGAV5EC08ty7K606OE9XEhmsNCA/view?usp=sharing
 - Link to Git: https://github.com/TienLe0504/Tien-Le_Fight_Scence
   
-# GIẢI THÍCH THUẬT TOÁN CÂU 2
-# YÊU CẦU 1
+# Cách tạo các level
 ## 1.1 Mục tiêu
 - Phân loại: Chia 10 level thành 3 game mode riêng biệt để tạo sự đa dạng.
 - Độ khó tăng dần: Mỗi level sau sẽ khó hơn level trước.
@@ -68,7 +65,7 @@ Tác động: Người chơi không chỉ chiến đấu một mình mà còn ph
 Bất lợi về thế trận (Game mode Many vs Many).
 Tác động: Người chơi là yếu tố chính quyết định trận đấu. Ngoài đồng minh hỗ trợ, người chơi còn phải để di chuyển thông minh và tấn công mục tiêu.
  
-# YÊU CẦU 2
+# Tối ưu
 Để đảm bảo game chạy mượt mà với gần 50 model có animation cùng lúc trên màn hình, em đã áp dụng các kỹ thuật tối ưu hóa chính sau đây.
 1. Tối ưu hóa CPU và Bộ nhớ: Object Pooling
 Cách thực hiện: Ngay khi bắt đầu game, em đã tạo sẵn các pool chứa đủ số lượng đối tượng cần thiết: 25 Kẻ địch, 24 Đồng minh và 49 Thanh máu (cộng thêm player nữa là đủ 50).
